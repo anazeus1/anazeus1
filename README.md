@@ -6,7 +6,10 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=flutter)
+![Dart](https://img.shields.io/badge/-flutter-000?&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
+![Dart](https://img.shields.io/badge/-androidstudio-000?&logo=androidstudio)
+![Dart](https://img.shields.io/badge/-kotlin-000?&logo=kotlin)
 
 ### Technologies
 
