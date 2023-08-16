@@ -6,7 +6,7 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=M#0175C2)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=0175C2)
 
 ### Technologies
 
